@@ -1,4 +1,3 @@
-# rv32i-cpu
 
 # RV32I Processor (32-bit RISC-V CPU in Verilog)
 
@@ -8,14 +7,14 @@ This is a step-by-step implementation of a **single-cycle RV32I processor**, sta
 
 ## 📁 Project Structure
 
-rv32i-cpu/
-├── README.md
-├── docs/ # Diagrams and architecture notes
-├── src/ # Verilog source files
-├── testbench/ # Testbenches
-├── programs/ # RISC-V assembly + compiled hex
-├── Makefile # (Optional) build automation
-└── .gitignore
+rv32i-cpu/  
+├── README.md  
+├── docs/ # Diagrams and architecture notes  
+├── src/ # Verilog source files  
+├── testbench/ # Testbenches  
+├── programs/ # RISC-V assembly + compiled hex  
+├── Makefile # (Optional) build automation  
+└── .gitignore  
 
 
 ---
@@ -45,8 +44,4 @@ rv32i-cpu/
 - RISC-V tools (assembler or compiler)
 - Git + GitHub for version tracking
 
----
 
-## 📚 Reference
-- [RISC-V Green Card](https://inst.eecs.berkeley.edu/~cs61c/fa17/img/riscvcard.pdf)
-- [RISC-V User ISA Manual](https://riscv.org/specifications/)
