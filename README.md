@@ -30,7 +30,7 @@ rv32i-cpu/
 | Component       | Status       |
 |----------------|--------------|
 | ISA Study       | ✅ Completed  |
-| Register File   | 🚧 In Progress |
+| Register File   | ✅ Completed |
 | ALU             | ⬜ Not Started |
 | Control Unit    | ⬜ Not Started |
 | Datapath        | ⬜ Not Started |
