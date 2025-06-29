@@ -31,7 +31,7 @@ rv32i-cpu/
 |----------------|--------------|
 | ISA Study       | ✅ Completed  |
 | Register File   | ✅ Completed |
-| ALU             | ⬜ Not Started |
+| ALU             | ✅ Completed |
 | Control Unit    | ⬜ Not Started |
 | Datapath        | ⬜ Not Started |
 | Testing         | ⬜ Not Started |
