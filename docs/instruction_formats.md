@@ -77,7 +77,7 @@ This document summarizes the 6 instruction formats used in the **RV32I (32-bit I
 
 ---
 
-## 🧐 Notes
+##  Notes
 
 * The `x0` register is hardwired to zero in all RISC-V processors.
 * Immediate fields are sign-extended as needed.
